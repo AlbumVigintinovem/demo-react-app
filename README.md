@@ -2,6 +2,4 @@
 Demo Frontend Project
 
 
-
-//install node modules
-npm install
+npm install for installing node_modules
